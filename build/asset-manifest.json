@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/currentWeather/static/css/main.ecfd81a4.css",
+    "main.js": "/currentWeather/static/js/main.858ed30c.js",
+    "static/media/sky.jpg": "/currentWeather/static/media/sky.89aa7dd35c0810e412e1.jpg",
+    "index.html": "/currentWeather/index.html",
+    "main.ecfd81a4.css.map": "/currentWeather/static/css/main.ecfd81a4.css.map",
+    "main.858ed30c.js.map": "/currentWeather/static/js/main.858ed30c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecfd81a4.css",
+    "static/js/main.858ed30c.js"
+  ]
+}
